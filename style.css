@@ -21,6 +21,12 @@ img{
     margin-right: auto;
     
 }
+.border{
+    border-color: darkgrey;
+    border-width: 7px;
+    border-style: double;
+
+}
 hr{
     width:1140px;
     border-style: solid;
