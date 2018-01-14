@@ -1,0 +1,47 @@
+h1 {
+    height: 50px;
+    color: blueviolet;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    size: 30px;
+    color: chocolate;
+    font-style: italic;
+    font-size: 170%;
+
+}
+html{
+    background-color: beige;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+hr{
+    width:1140px;
+    border-style: solid;
+    
+
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+a.active{
+    background-color: rgb(255, 255, 255);
+}
+p{
+    text-align: justify;
+    font-size: 25px;
+}
+ol{
+    font-size: 20px;
+    font-style: oblique;
+   
+}
