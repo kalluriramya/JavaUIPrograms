@@ -23,8 +23,8 @@ img{
 }
 .border{
     border-color: blue;
-    border-width: 7px;
-    border-style: double;
+    border-width: 10px;
+    border-style: solid;
 
 }
 hr{
