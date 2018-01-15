@@ -22,10 +22,9 @@ img{
     
 }
 .border{
-    border-color: rgb(169, 169, 169);
+    border-color: blue;
     border-width: 7px;
     border-style: double;
-    border-radius: 50%;
 
 }
 hr{
