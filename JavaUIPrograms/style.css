@@ -51,3 +51,6 @@ ol{
     font-style: oblique;
    
 }
+aside{
+    float: right;
+}
